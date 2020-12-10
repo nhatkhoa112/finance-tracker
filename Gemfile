@@ -25,7 +25,6 @@ gem 'iex-ruby-client'
 gem "font-awesome-rails"
 gem 'moesif_rack', '~> 1.2.0'
 gem 'platform-api'
-gem "figaro"
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
