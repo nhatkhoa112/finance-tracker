@@ -6,6 +6,16 @@
 }
 */
 
+
+.nav-item{
+
+    color: lavenderblush
+}
+
+#home-container{
+    margin-top: 35px;
+}
+
 .search-area {
     padding-top: 50px;
 }
@@ -30,4 +40,24 @@
 .user-name {
     margin-top: 3.5%;
     padding-right: 5px;
+}
+
+.jumbotron {
+    background-image: asset-url('icon.jpeg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 530px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+
+.background{
+    background-color: whitegrey;
+  }
+
+.color-link{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(135, 252, 99)
 }
